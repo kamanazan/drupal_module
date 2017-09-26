@@ -1,0 +1,8 @@
+hello_world:
+  path: /hello/drupal
+  defaults:
+    _controller: Drupal\hello_drupal\Controller\HelloController:hello
+  requirements:
+    _permission: 'access content'
+
+

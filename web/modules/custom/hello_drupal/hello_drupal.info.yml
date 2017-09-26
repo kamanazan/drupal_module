@@ -1,0 +1,5 @@
+name: Hello Drupal
+type: module
+description: "Hello Drupal"
+package: VoxTeneo
+core: 8.x
